@@ -1,0 +1,422 @@
+[
+  {
+    "text": "MANAGERIUM",
+    "url": "https://mgm.ibos.io/"
+  },
+  {
+    "text": "Account Dashboard",
+    "url": "https://mgm.ibos.io/accounts/accDashboard"
+  },
+  {
+    "text": "Finance & Banking",
+    "url": "https://mgm.ibos.io/accounts/bankAccount"
+  },
+  {
+    "text": "Budget",
+    "url": "https://mgm.ibos.io/accounts/budgetSetup"
+  },
+  {
+    "text": "Accounting Journal",
+    "url": "https://mgm.ibos.io/accounts/businessTransaction"
+  },
+  {
+    "text": "Center Setup",
+    "url": "https://mgm.ibos.io/accounts/centerSetup"
+  },
+  {
+    "text": "Cheque Design",
+    "url": "https://mgm.ibos.io/accounts/chequeDesign"
+  },
+  {
+    "text": "Cheque Issue",
+    "url": "https://mgm.ibos.io/accounts/chequeIssue"
+  },
+  {
+    "text": "Cheque Setup",
+    "url": "https://mgm.ibos.io/accounts/chequeSetup"
+  },
+  {
+    "text": "Chart of A/C",
+    "url": "https://mgm.ibos.io/accounts/expenseIncomeHead"
+  },
+  {
+    "text": "Expense/Advance",
+    "url": "https://mgm.ibos.io/accounts/expenseOrAdvance"
+  },
+  {
+    "text": "Financial Report",
+    "url": "https://mgm.ibos.io/accounts/financialReport"
+  },
+  {
+    "text": "Fund Transfer",
+    "url": "https://mgm.ibos.io/accounts/fundTransfer"
+  },
+  {
+    "text": "LC Management",
+    "url": "https://mgm.ibos.io/accounts/lcmargin"
+  },
+  {
+    "text": "Other Report",
+    "url": "https://mgm.ibos.io/accounts/othersReport"
+  },
+  {
+    "text": "Project Accounting",
+    "url": "https://mgm.ibos.io/accounts/Project"
+  },
+  {
+    "text": "Assign",
+    "url": "https://mgm.ibos.io/asset/assetAssign"
+  },
+  {
+    "text": "Asset Dashboard",
+    "url": "https://mgm.ibos.io/asset/assetDashboard"
+  },
+  {
+    "text": "Depreciation",
+    "url": "https://mgm.ibos.io/asset/assetDepreciation"
+  },
+  {
+    "text": "Asset Disposal",
+    "url": "https://mgm.ibos.io/asset/assetDisposal"
+  },
+  {
+    "text": "Maintenance",
+    "url": "https://mgm.ibos.io/asset/assetMaintenance"
+  },
+  {
+    "text": "Registration",
+    "url": "https://mgm.ibos.io/asset/assetRegister"
+  },
+  {
+    "text": "Asset Report",
+    "url": "https://mgm.ibos.io/asset/assetReport"
+  },
+  {
+    "text": "Approval",
+    "url": "https://mgm.ibos.io/commonapproval"
+  },
+  {
+    "text": "Approval Setup",
+    "url": "https://mgm.ibos.io/config/approvalsetup"
+  },
+  {
+    "text": "Customer Profile",
+    "url": "https://mgm.ibos.io/config/custoemerProfile"
+  },
+  {
+    "text": "Employee",
+    "url": "https://mgm.ibos.io/config/employee"
+  },
+  {
+    "text": "Item Profile",
+    "url": "https://mgm.ibos.io/config/item"
+  },
+  {
+    "text": "Other Partner Profile",
+    "url": "https://mgm.ibos.io/config/otherPartnerProfile"
+  },
+  {
+    "text": "Company Profile",
+    "url": "https://mgm.ibos.io/config/profile"
+  },
+  {
+    "text": "Responsibility Transfer",
+    "url": "https://mgm.ibos.io/config/responsibilityTransfer"
+  },
+  {
+    "text": "Supplier Profile",
+    "url": "https://mgm.ibos.io/config/supplierProfile"
+  },
+  {
+    "text": "User Group",
+    "url": "https://mgm.ibos.io/config/userGroup"
+  },
+  {
+    "text": "Warehouse",
+    "url": "https://mgm.ibos.io/config/warehouse"
+  },
+  {
+    "text": "Acknowledgement",
+    "url": "https://mgm.ibos.io/hrAdmin/acknowledgementLetter"
+  },
+  {
+    "text": "Attendance",
+    "url": "https://mgm.ibos.io/hrAdmin/attendance"
+  },
+  {
+    "text": "Bonus",
+    "url": "https://mgm.ibos.io/hrAdmin/bonus"
+  },
+  {
+    "text": "Calendar Assign",
+    "url": "https://mgm.ibos.io/hrAdmin/calendarAssign"
+  },
+  {
+    "text": "Configuration/Policies",
+    "url": "https://mgm.ibos.io/hrAdmin/config"
+  },
+  {
+    "text": "Payroll Dashboard",
+    "url": "https://mgm.ibos.io/hrAdmin/dashboard"
+  },
+  {
+    "text": "Increment",
+    "url": "https://mgm.ibos.io/hrAdmin/increment"
+  },
+  {
+    "text": "Leave & Movement",
+    "url": "https://mgm.ibos.io/hrAdmin/leave&Movement"
+  },
+  {
+    "text": "Overtime",
+    "url": "https://mgm.ibos.io/hrAdmin/overtime"
+  },
+  {
+    "text": "Pending Approval",
+    "url": "https://mgm.ibos.io/hrAdmin/pendingApproval"
+  },
+  {
+    "text": "Profile",
+    "url": "https://mgm.ibos.io/hrAdmin/profile"
+  },
+  {
+    "text": "Report",
+    "url": "https://mgm.ibos.io/hrAdmin/report"
+  },
+  {
+    "text": "Salary Disbursement",
+    "url": "https://mgm.ibos.io/hrAdmin/salaryDisbursment"
+  },
+  {
+    "text": "Payroll",
+    "url": "https://mgm.ibos.io/hrAdmin/salarySheet"
+  },
+  {
+    "text": "Self Service",
+    "url": "https://mgm.ibos.io/hrAdmin/selfService"
+  },
+  {
+    "text": "Audit",
+    "url": "https://mgm.ibos.io/inventory/audit"
+  },
+  {
+    "text": "Audit Setup",
+    "url": "https://mgm.ibos.io/inventory/auditSetup"
+  },
+  {
+    "text": "Gate In Out",
+    "url": "https://mgm.ibos.io/inventory/gateInOut"
+  },
+  {
+    "text": "Inventory Dashboard",
+    "url": "https://mgm.ibos.io/inventory/invDashboard"
+  },
+  {
+    "text": "Inventory Reports",
+    "url": "https://mgm.ibos.io/inventory/inventoryReport"
+  },
+  {
+    "text": "Store Requisition",
+    "url": "https://mgm.ibos.io/inventory/InvRequisition"
+  },
+  {
+    "text": "Store Issue",
+    "url": "https://mgm.ibos.io/inventory/InvRequisitionIssue"
+  },
+  {
+    "text": "Item Stock Conversion",
+    "url": "https://mgm.ibos.io/inventory/Item-stock-convertion"
+  },
+  {
+    "text": "QA Management",
+    "url": "https://mgm.ibos.io/inventory/qcManagement"
+  },
+  {
+    "text": "Transfer Request",
+    "url": "https://mgm.ibos.io/inventory/request"
+  },
+  {
+    "text": "Stock Adjustment",
+    "url": "https://mgm.ibos.io/inventory/stock-adjustment"
+  },
+  {
+    "text": "Transfer",
+    "url": "https://mgm.ibos.io/inventory/transfer"
+  },
+  {
+    "text": "Transfer Report",
+    "url": "https://mgm.ibos.io/inventory/transferOutReceive"
+  },
+  {
+    "text": "Multilayer Approval",
+    "url": "https://mgm.ibos.io/multi-level-approval"
+  },
+  {
+    "text": "Campaign",
+    "url": "https://mgm.ibos.io/postcrm/campaign"
+  },
+  {
+    "text": "Complain Management",
+    "url": "https://mgm.ibos.io/postcrm/complainManagement"
+  },
+  {
+    "text": "Configuration",
+    "url": "https://mgm.ibos.io/postcrm/configuration"
+  },
+  {
+    "text": "Report",
+    "url": "https://mgm.ibos.io/postcrm/crmReport"
+  },
+  {
+    "text": "Reports",
+    "url": "https://mgm.ibos.io/postcrm/crmReports"
+  },
+  {
+    "text": "Email Config",
+    "url": "https://mgm.ibos.io/postcrm/emailConfig"
+  },
+  {
+    "text": "Pre Suspect Lead",
+    "url": "https://mgm.ibos.io/postcrm/preSuspect"
+  },
+  {
+    "text": "Reject Lead QC",
+    "url": "https://mgm.ibos.io/postcrm/rejectLeadQC"
+  },
+  {
+    "text": "Sales Target",
+    "url": "https://mgm.ibos.io/postcrm/salesTarget"
+  },
+  {
+    "text": "Sales Target Employee Wise",
+    "url": "https://mgm.ibos.io/postcrm/salesTargetEmployeeWise"
+  },
+  {
+    "text": "Service Agreement",
+    "url": "https://mgm.ibos.io/postcrm/serviceAgreement"
+  },
+  {
+    "text": "Stage Target",
+    "url": "https://mgm.ibos.io/postcrm/stageTarget"
+  },
+  {
+    "text": "Ticket",
+    "url": "https://mgm.ibos.io/postcrm/ticket"
+  },
+  {
+    "text": "Service Request",
+    "url": "https://mgm.ibos.io/postcrm/warrantyManagement"
+  },
+  {
+    "text": "Bill Of Material",
+    "url": "https://mgm.ibos.io/production/billOfMaterial"
+  },
+  {
+    "text": "Production Dashboard",
+    "url": "https://mgm.ibos.io/production/productionDashboard"
+  },
+  {
+    "text": "Production Entry",
+    "url": "https://mgm.ibos.io/production/productionEntry"
+  },
+  {
+    "text": "Production Order",
+    "url": "https://mgm.ibos.io/production/productionOrder"
+  },
+  {
+    "text": "Production Report",
+    "url": "https://mgm.ibos.io/production/productionReport"
+  },
+  {
+    "text": "Work Center",
+    "url": "https://mgm.ibos.io/production/workCenter"
+  },
+  {
+    "text": "Comparative Statement",
+    "url": "https://mgm.ibos.io/purchase/cs"
+  },
+  {
+    "text": "Purchase Receive",
+    "url": "https://mgm.ibos.io/purchase/goodsReceive"
+  },
+  {
+    "text": "Purchase Payment",
+    "url": "https://mgm.ibos.io/purchase/invoice"
+  },
+  {
+    "text": "Purchase Report",
+    "url": "https://mgm.ibos.io/purchase/purchase"
+  },
+  {
+    "text": "Purchase Analytics",
+    "url": "https://mgm.ibos.io/purchase/purchaseAnalytics"
+  },
+  {
+    "text": "Purchase Dashboard",
+    "url": "https://mgm.ibos.io/purchase/purchaseDashboard"
+  },
+  {
+    "text": "Purchase Order",
+    "url": "https://mgm.ibos.io/purchase/purchaseOrder"
+  },
+  {
+    "text": "Purchase Requisition",
+    "url": "https://mgm.ibos.io/purchase/purchaseRequisition"
+  },
+  {
+    "text": "Purchase Return",
+    "url": "https://mgm.ibos.io/purchase/purchaseReturn"
+  },
+  {
+    "text": "Quotation Entry",
+    "url": "https://mgm.ibos.io/purchase/quotationEntry"
+  },
+  {
+    "text": "Request For Quotation",
+    "url": "https://mgm.ibos.io/purchase/rfq"
+  },
+  {
+    "text": "Delivery Schedule",
+    "url": "https://mgm.ibos.io/sales/deliverySchedule"
+  },
+  {
+    "text": "Field Collection",
+    "url": "https://mgm.ibos.io/sales/fieldCollection"
+  },
+  {
+    "text": "Sales Delivery",
+    "url": "https://mgm.ibos.io/sales/goodsSales"
+  },
+  {
+    "text": "Sales Report",
+    "url": "https://mgm.ibos.io/sales/sales"
+  },
+  {
+    "text": "Sales Analytics",
+    "url": "https://mgm.ibos.io/sales/salesAnalytics"
+  },
+  {
+    "text": "Sales Collection",
+    "url": "https://mgm.ibos.io/sales/SalesCollection"
+  },
+  {
+    "text": "Sales Dashboard",
+    "url": "https://mgm.ibos.io/sales/salesDashboard"
+  },
+  {
+    "text": "Sales Order",
+    "url": "https://mgm.ibos.io/sales/salesOrder"
+  },
+  {
+    "text": "Sales Quotation",
+    "url": "https://mgm.ibos.io/sales/salesQuotation"
+  },
+  {
+    "text": "Sales Return",
+    "url": "https://mgm.ibos.io/sales/salesReturn"
+  },
+  {
+    "text": "Sales Target",
+    "url": "https://mgm.ibos.io/sales/target"
+  }
+]

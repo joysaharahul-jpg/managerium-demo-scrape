@@ -1,0 +1,10 @@
+[
+  {
+    "requestedUrl": "https://mgm.ibos.io/postcrm/ticket",
+    "error": "TimeoutError: locator.evaluate: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('a[href=\"https://mgm.ibos.io/postcrm/ticket\"]').first()\n"
+  },
+  {
+    "requestedUrl": "https://mgm.ibos.io/sales/salesOrder",
+    "error": "TimeoutError: locator.evaluate: Timeout 30000ms exceeded.\nCall log:\n  - waiting for locator('a[href=\"https://mgm.ibos.io/sales/salesOrder\"]').first()\n"
+  }
+]

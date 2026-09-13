@@ -1,0 +1,7 @@
+"URL","Context","Id","Name","Placeholder","Option"
+"https://mgm.ibos.io/production/productionReport","base",,,,
+"https://mgm.ibos.io/purchase/invoice","base",,,,
+"https://mgm.ibos.io/purchase/purchaseAnalytics","base",,,,
+"https://mgm.ibos.io/accounts/expenseOrAdvance/createExpense","create:Create Expense / tab:EXPENSE",,,,
+"https://mgm.ibos.io/accounts/expenseOrAdvance","create:Create Advance / tab:PROVISION",,,,
+"https://mgm.ibos.io/hrAdmin/config/leave-create","create:New",,,,

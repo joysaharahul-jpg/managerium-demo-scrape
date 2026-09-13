@@ -1,0 +1,976 @@
+[
+  {
+    "task": {
+      "route": "https://mgm.ibos.io/accounts/expenseOrAdvance",
+      "tab": "EXPENSE",
+      "button": "Create Expense"
+    },
+    "enabled": true,
+    "status": "opened",
+    "view": {
+      "url": "https://mgm.ibos.io/accounts/expenseOrAdvance/createExpense",
+      "title": "Expense",
+      "bodyText": "MANAGERIUM\nUltra-Grade Steel Re-Rolling Ltd\n\nPurchase\nPurchase Dashboard\nPurchase Requisition\nRequest For Quotation\nQuotation Entry\nComparative Statement\nPurchase Order\nPurchase Receive\nPurchase Return\nPurchase Payment\nPurchase Analytics\nPurchase Report\nSales\nSales Dashboard\nSales Quotation\nSales Order\nDelivery Schedule\nSales Delivery\nSales Return\nSales Collection\nField Collection\nSales Target\nSales Report\nSales Analytics\nAccount\nAccount Dashboard\nChart of A/C\nAccounting Journal\nExpense/Advance\nFund Transfer\nFinance & Banking\nCheque Setup\nCheque Design\nCheque Issue\nBudget\nCenter Setup\nLC Management\nProject Accounting\nFinancial Report\nOther Report\nInventory\nInventory Dashboard\nTransfer Request\nTransfer\nStore Requisition\nStore Issue\nStock Adjustment\nGate In Out\nItem Stock Conversion\nQA Management\nAudit Setup\nAudit\nInventory Reports\nTransfer Report\nPayroll\nEmployee Self Service\nProfile\nLeave & Movement\nSelf Service\nAcknowledgement\nTime & Attendance\nAttendance\nCalendar Assign\nOvertime\nPayroll Administration\nPayroll\nCompensation Adjustments\nSalary Disbursement\nBonus\nTalent Offboarding\nIncrement\nHR Governance\nConfiguration/Policies\nPending Approval\nWorkforce Analytics\nPayroll Dashboard\nReport\nAsset\nAsset Onboarding\nRegistration\nAssign\nLifecycle Maintenance\nMaintenance\nDepreciation\nAsset Disposal\nReports & Analytics\nAsset Dashboard\nAsset Report\nProduction\nProduction Dashboard\nWork Center\nBill Of Material\nProduction Order\nProduction Entry\nProduction Report\nApproval\nMultilayer Approval\nConfiguration\nBusiness Architecture\nWarehouse\nBusiness Config\nCompany Profile\nEntity Master Data\nEmployee\nItem Profile\nCustomer Profile\nSupplier Profile\nOther Partner Profile\nIdentity & Security\nApproval Setup\nUser Group\nResponsibility Transfer\nPOST CRM\nComplain Management\nService Request\nTicket\nReports\nReport\nService Agreement\nConfiguration\nEmail Config\nCampaign\nSales Target\nSales Target Employee Wise\nStage Target\nReject Lead QC\nPre Suspect Lead\nCreate Expense\nSAVE\nEXPENSE\nCOMPENSATION AND INCENTIVE\nExpense Category\n*\nEmployee\nExpense Date\nOffice*\nOSMO DEMO\nEmployee\n*\nSelect/Search Employee\n\nDepartment\nSelect Department\nSales Order No\nSelect Sales Order No\nSupplier/Principle\nSelect/Search Supplier/Principle\nDescription\nDrag & Drop your files or Browse\nDate\nAccounts Name (GL)\nAccounts Name (GL)\nRemarks\nAmount\nAdd\nSL\tDate\tAccounts Name (GL)\tRemarks\tAmount\tAction\nTotal:\t0.00",
+      "controls": [
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": "Go to page...",
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "react-select-mgm-input",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "text": "",
+          "value": "40513",
+          "placeholder": null,
+          "name": "branchList",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "text": "SAVE",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "EXPENSE",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "COMPENSATION AND INCENTIVE",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "react-select-mgm-input",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "text": "",
+          "value": "payee",
+          "placeholder": null,
+          "name": "partnerPayee",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "date",
+          "text": "",
+          "value": "2026-09-13",
+          "placeholder": "Expense Date",
+          "name": "headerDate",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "react-select-mgm-input",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "text": "",
+          "value": "360",
+          "placeholder": null,
+          "name": "office",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "react-select-mgm-input",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "react-select-mgm-input",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": "payeeWiseDepartment",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "react-select-mgm-input",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": "salesOrder",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "react-select-mgm-input",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "textarea",
+          "type": "textarea",
+          "text": "",
+          "value": "",
+          "placeholder": "Description",
+          "name": "description",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "file",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": "files",
+          "id": "filepond--browser-dgkqodg43",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "date",
+          "text": "",
+          "value": "2026-09-13",
+          "placeholder": "Date",
+          "name": "date",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "react-select-mgm-input",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": "chartOfAccounts",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "textarea",
+          "type": "textarea",
+          "text": "",
+          "value": "",
+          "placeholder": "Remarks",
+          "name": "purpose",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "number",
+          "text": "",
+          "value": "",
+          "placeholder": "Amount",
+          "name": "amount",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "Add",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": true,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "reset",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        }
+      ],
+      "tables": [
+        [
+          [
+            "SL",
+            "Date",
+            "Accounts Name (GL)",
+            "Remarks",
+            "Amount",
+            "Action"
+          ],
+          [
+            "Total:",
+            "0.00"
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "task": {
+      "route": "https://mgm.ibos.io/accounts/expenseOrAdvance",
+      "tab": "PROVISION",
+      "button": "Create Advance"
+    },
+    "enabled": true,
+    "status": "opened",
+    "view": {
+      "url": "https://mgm.ibos.io/accounts/expenseOrAdvance",
+      "title": "Expense",
+      "bodyText": "MANAGERIUM\nUltra-Grade Steel Re-Rolling Ltd\n\nPurchase\nPurchase Dashboard\nPurchase Requisition\nRequest For Quotation\nQuotation Entry\nComparative Statement\nPurchase Order\nPurchase Receive\nPurchase Return\nPurchase Payment\nPurchase Analytics\nPurchase Report\nSales\nSales Dashboard\nSales Quotation\nSales Order\nDelivery Schedule\nSales Delivery\nSales Return\nSales Collection\nField Collection\nSales Target\nSales Report\nSales Analytics\nAccount\nAccount Dashboard\nChart of A/C\nAccounting Journal\nExpense/Advance\nFund Transfer\nFinance & Banking\nCheque Setup\nCheque Design\nCheque Issue\nBudget\nCenter Setup\nLC Management\nProject Accounting\nFinancial Report\nOther Report\nInventory\nInventory Dashboard\nTransfer Request\nTransfer\nStore Requisition\nStore Issue\nStock Adjustment\nGate In Out\nItem Stock Conversion\nQA Management\nAudit Setup\nAudit\nInventory Reports\nTransfer Report\nPayroll\nEmployee Self Service\nProfile\nLeave & Movement\nSelf Service\nAcknowledgement\nTime & Attendance\nAttendance\nCalendar Assign\nOvertime\nPayroll Administration\nPayroll\nCompensation Adjustments\nSalary Disbursement\nBonus\nTalent Offboarding\nIncrement\nHR Governance\nConfiguration/Policies\nPending Approval\nWorkforce Analytics\nPayroll Dashboard\nReport\nAsset\nAsset Onboarding\nRegistration\nAssign\nLifecycle Maintenance\nMaintenance\nDepreciation\nAsset Disposal\nReports & Analytics\nAsset Dashboard\nAsset Report\nProduction\nProduction Dashboard\nWork Center\nBill Of Material\nProduction Order\nProduction Entry\nProduction Report\nApproval\nMultilayer Approval\nConfiguration\nBusiness Architecture\nWarehouse\nBusiness Config\nCompany Profile\nEntity Master Data\nEmployee\nItem Profile\nCustomer Profile\nSupplier Profile\nOther Partner Profile\nIdentity & Security\nApproval Setup\nUser Group\nResponsibility Transfer\nPOST CRM\nComplain Management\nService Request\nTicket\nReports\nReport\nService Agreement\nConfiguration\nEmail Config\nCampaign\nSales Target\nSales Target Employee Wise\nStage Target\nReject Lead QC\nPre Suspect Lead\nExpense/Advance\nCreate Advance\nEXPENSE\nADVANCE\nPROVISION\nPAID\nOffice\nOffice\nFrom\nTo\nView\nPayment\n\tSL\tDate\tCode\tOffice Name\tExpense Type\tPartner/Payee\tChart Of Account\tDescription\tAmount\tStatus\tActions\n\n\t\t\t\t\t\t\t\tTotal\t0.00\t\t",
+      "controls": [
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": "Go to page...",
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "react-select-mgm-input",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "text": "",
+          "value": "40513",
+          "placeholder": null,
+          "name": "branchList",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": "Search....",
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "Create Advance",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "demo-positioned-button",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "EXPENSE",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "ADVANCE",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "PROVISION",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "PAID",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "react-select-mgm-input",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": "office",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "date",
+          "text": "",
+          "value": "2026-08-13",
+          "placeholder": null,
+          "name": "fromDate",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "date",
+          "text": "",
+          "value": "2026-09-13",
+          "placeholder": null,
+          "name": "toDate",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "text": "View",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": null,
+          "text": "Payment",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": true,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "text": "",
+          "value": "on",
+          "placeholder": null,
+          "name": "isAllCheck",
+          "id": null,
+          "disabled": true,
+          "required": false
+        }
+      ],
+      "tables": [
+        [
+          [
+            "",
+            "SL",
+            "Date",
+            "Code",
+            "Office Name",
+            "Expense Type",
+            "Partner/Payee",
+            "Chart Of Account",
+            "Description",
+            "Amount",
+            "Status",
+            "Actions"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Total",
+            "0.00",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "Total",
+            "0.00",
+            "",
+            ""
+          ]
+        ]
+      ]
+    }
+  },
+  {
+    "task": {
+      "route": "https://mgm.ibos.io/accounts/Project",
+      "tab": null,
+      "button": "Create Tender"
+    },
+    "status": "button-not-found",
+    "bodyText": "MANAGERIUM\nUltra-Grade Steel Re-Rolling Ltd\n\nPurchase\nPurchase Dashboard\nPurchase Requisition\nRequest For Quotation\nQuotation Entry\nComparative Statement\nPurchase Order\nPurchase Receive\nPurchase Return\nPurchase Payment\nPurchase Analytics\nPurchase Report\nSales\nSales Dashboard\nSales Quotation\nSales Order\nDelivery Schedule\nSales Delivery\nSales Return\nSales Collection\nField Collection\nSales Target\nSales Report\nSales Analytics\nAccount\nAccount Dashboard\nChart of A/C\nAccounting Journal\nExpense/Advance\nFund Transfer\nFinance & Banking\nCheque Setup\nCheque Design\nCheque Issue\nBudget\nCenter Setup\nLC Management\nProject Accounting\nFinancial Report\nOther Report\nInventory\nInventory Dashboard\nTransfer Request\nTransfer\nStore Requisition\nStore Issue\nStock Adjustment\nGate In Out\nItem Stock Conversion\nQA Management\nAudit Setup\nAudit\nInventory Reports\nTransfer Report\nPayroll\nEmployee Self Service\nProfile\nLeave & Movement\nSelf Service\nAcknowledgement\nTime & Attendance\nAttendance\nCalendar Assign\nOvertime\nPayroll Administration\nPayroll\nCompensation Adjustments\nSalary Disbursement\nBonus\nTalent Offboarding\nIncrement\nHR Governance\nConfiguration/Policies\nPending Approval\nWorkforce Analytics\nPayroll Dashboard\nReport\nAsset\nAsset Onboarding\nRegistration\nAssign\nLifecycle Maintenance\nMaintenance\nDepreciation\nAsset Disposal\nReports & Analytics\nAsset Dashboard\nAsset Report\nProduction\nProduction Dashboard\nWork Center\nBill Of Material\nProduction Order\nProduction Entry\nProduction Report\nApproval\nMultilayer Approval\nConfiguration\nBusiness Architecture\nWarehouse\nBusiness Config\nCompany Profile\nEntity Master Data\nEmployee\nItem Profile\nCustomer Profile\nSupplier Profile\nOther Partner Profile\nIdentity & Security\nApproval Setup\nUser Group\nResponsibility Transfer\nPOST CRM\nComplain Management\nService Request\nTicket\nReports\nReport\nService Agreement\nConfiguration\nEmail Config\nCampaign\nSales Target\nSales Target Employee Wise\nStage Target\nReject Lead QC\nPre Suspect Lead\nUnknown\nPROJECT\nTENDER\nPROJECT FINANCE VIEW"
+  },
+  {
+    "task": {
+      "route": "https://mgm.ibos.io/hrAdmin/config",
+      "tab": null,
+      "button": "New"
+    },
+    "enabled": true,
+    "status": "opened",
+    "view": {
+      "url": "https://mgm.ibos.io/hrAdmin/config/leave-create",
+      "title": "Create Leave SetUp",
+      "bodyText": "MANAGERIUM\nUltra-Grade Steel Re-Rolling Ltd\n\nPurchase\nPurchase Dashboard\nPurchase Requisition\nRequest For Quotation\nQuotation Entry\nComparative Statement\nPurchase Order\nPurchase Receive\nPurchase Return\nPurchase Payment\nPurchase Analytics\nPurchase Report\nSales\nSales Dashboard\nSales Quotation\nSales Order\nDelivery Schedule\nSales Delivery\nSales Return\nSales Collection\nField Collection\nSales Target\nSales Report\nSales Analytics\nAccount\nAccount Dashboard\nChart of A/C\nAccounting Journal\nExpense/Advance\nFund Transfer\nFinance & Banking\nCheque Setup\nCheque Design\nCheque Issue\nBudget\nCenter Setup\nLC Management\nProject Accounting\nFinancial Report\nOther Report\nInventory\nInventory Dashboard\nTransfer Request\nTransfer\nStore Requisition\nStore Issue\nStock Adjustment\nGate In Out\nItem Stock Conversion\nQA Management\nAudit Setup\nAudit\nInventory Reports\nTransfer Report\nPayroll\nEmployee Self Service\nProfile\nLeave & Movement\nSelf Service\nAcknowledgement\nTime & Attendance\nAttendance\nCalendar Assign\nOvertime\nPayroll Administration\nPayroll\nCompensation Adjustments\nSalary Disbursement\nBonus\nTalent Offboarding\nIncrement\nHR Governance\nConfiguration/Policies\nPending Approval\nWorkforce Analytics\nPayroll Dashboard\nReport\nAsset\nAsset Onboarding\nRegistration\nAssign\nLifecycle Maintenance\nMaintenance\nDepreciation\nAsset Disposal\nReports & Analytics\nAsset Dashboard\nAsset Report\nProduction\nProduction Dashboard\nWork Center\nBill Of Material\nProduction Order\nProduction Entry\nProduction Report\nApproval\nMultilayer Approval\nConfiguration\nBusiness Architecture\nWarehouse\nBusiness Config\nCompany Profile\nEntity Master Data\nEmployee\nItem Profile\nCustomer Profile\nSupplier Profile\nOther Partner Profile\nIdentity & Security\nApproval Setup\nUser Group\nResponsibility Transfer\nPOST CRM\nComplain Management\nService Request\nTicket\nReports\nReport\nService Agreement\nConfiguration\nEmail Config\nCampaign\nSales Target\nSales Target Employee Wise\nStage Target\nReject Lead QC\nPre Suspect Lead\nCreate Leave\nSAVE\nRegular based\nPolicy based\nEmployee Type\n*\nSelect Employee Type\nLeave Type\n*\nADD NEW\nSelect Leave Type\nQuota\n*\nEffective After (Month)\n*\nEffective Based On\n*\nEffective Based On\nis Pro-rata",
+      "controls": [
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": "Go to page...",
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": null,
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "react-select-mgm-input",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "text": "",
+          "value": "40513",
+          "placeholder": null,
+          "name": "branchList",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "text": "SAVE",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "radio",
+          "text": "",
+          "value": "regularBased",
+          "placeholder": null,
+          "name": "row-radio-buttons-group",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "radio",
+          "text": "",
+          "value": "policyBased",
+          "placeholder": null,
+          "name": "row-radio-buttons-group",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "react-select-mgm-input",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": "employeeType",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "button",
+          "text": "ADD NEW",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "react-select-mgm-input",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": "leaveType",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "number",
+          "text": "",
+          "value": "",
+          "placeholder": "Enter Quota",
+          "name": "quota",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "number",
+          "text": "",
+          "value": "",
+          "placeholder": "Effective After (Month)",
+          "name": "effectiveAfter",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": "react-select-mgm-input",
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": "effectiveBasedOn",
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "text": "",
+          "value": "false",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        },
+        {
+          "tag": "button",
+          "type": "reset",
+          "text": "",
+          "value": "",
+          "placeholder": null,
+          "name": null,
+          "id": null,
+          "disabled": false,
+          "required": false
+        }
+      ],
+      "tables": []
+    }
+  },
+  {
+    "task": {
+      "route": "https://mgm.ibos.io/postcrm/complainManagement",
+      "tab": null,
+      "button": "Create Complain"
+    },
+    "status": "button-not-found",
+    "bodyText": ""
+  },
+  {
+    "task": {
+      "route": "https://mgm.ibos.io/sales/deliverySchedule",
+      "tab": "APPROVED SO",
+      "button": "Create Schedule"
+    },
+    "status": "button-not-found",
+    "bodyText": ""
+  }
+]

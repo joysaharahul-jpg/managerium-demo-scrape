@@ -1,0 +1,332 @@
+[
+  {
+    "route": "https://mgm.ibos.io/accounts/budgetSetup",
+    "tab": null,
+    "button": "Budget Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/budgetSetup",
+    "tab": "Budget",
+    "button": "Budget Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/chequeDesign",
+    "tab": null,
+    "button": "Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/chequeIssue",
+    "tab": null,
+    "button": "Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/chequeSetup",
+    "tab": null,
+    "button": "New Cheque"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/chequeSetup",
+    "tab": "CHEQUE REGISTER",
+    "button": "New Cheque"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/chequeSetup",
+    "tab": "OUTGOING CHEQUE REPORT",
+    "button": "New Cheque"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/chequeSetup",
+    "tab": "POST DATE CHEQUE REPORT",
+    "button": "New Cheque"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/expenseIncomeHead",
+    "tab": null,
+    "button": "Create Upload"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/expenseIncomeHead",
+    "tab": "COA PERMISSION",
+    "button": "Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/expenseIncomeHead",
+    "tab": "TABLE VIEW",
+    "button": "Create Upload"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/expenseOrAdvance",
+    "tab": null,
+    "button": "Create Advance"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/expenseOrAdvance",
+    "tab": "ADVANCE",
+    "button": "Create Advance"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/expenseOrAdvance",
+    "tab": "EXPENSE",
+    "button": "Create Expense"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/expenseOrAdvance",
+    "tab": "PROVISION",
+    "button": "Create Advance"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/fundTransfer",
+    "tab": "FUND TRANSFER REQUEST",
+    "button": "CREATE FUND TRANSFER REQUEST"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/lcmargin",
+    "tab": "PI/LC DETAILS",
+    "button": "LC Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/Project",
+    "tab": null,
+    "button": "Create Tender"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/Project",
+    "tab": "PROJECT",
+    "button": "Create Project"
+  },
+  {
+    "route": "https://mgm.ibos.io/accounts/Project",
+    "tab": "TENDER",
+    "button": "Create Tender"
+  },
+  {
+    "route": "https://mgm.ibos.io/asset/assetDisposal",
+    "tab": null,
+    "button": "Create Disposal"
+  },
+  {
+    "route": "https://mgm.ibos.io/asset/assetDisposal",
+    "tab": "Destroy",
+    "button": "Create Disposal"
+  },
+  {
+    "route": "https://mgm.ibos.io/asset/assetDisposal",
+    "tab": "Report",
+    "button": "Create Disposal"
+  },
+  {
+    "route": "https://mgm.ibos.io/asset/assetDisposal",
+    "tab": "Sales",
+    "button": "Create Disposal"
+  },
+  {
+    "route": "https://mgm.ibos.io/config/employee",
+    "tab": null,
+    "button": "Employee Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/config/employee",
+    "tab": "Employee",
+    "button": "Employee Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/config/responsibilityTransfer",
+    "tab": null,
+    "button": "Create Transfer"
+  },
+  {
+    "route": "https://mgm.ibos.io/config/responsibilityTransfer",
+    "tab": "Responsibility Transfer",
+    "button": "Create Transfer"
+  },
+  {
+    "route": "https://mgm.ibos.io/config/warehouse",
+    "tab": null,
+    "button": "Create Warehouse"
+  },
+  {
+    "route": "https://mgm.ibos.io/config/warehouse",
+    "tab": "Warehouse",
+    "button": "Create Warehouse"
+  },
+  {
+    "route": "https://mgm.ibos.io/hrAdmin/bonus",
+    "tab": null,
+    "button": "Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/hrAdmin/bonus",
+    "tab": "Bonus Advice",
+    "button": "Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/hrAdmin/config",
+    "tab": null,
+    "button": "New"
+  },
+  {
+    "route": "https://mgm.ibos.io/hrAdmin/config",
+    "tab": "Leave",
+    "button": "New"
+  },
+  {
+    "route": "https://mgm.ibos.io/hrAdmin/config",
+    "tab": "Sandwich Leave",
+    "button": "New"
+  },
+  {
+    "route": "https://mgm.ibos.io/inventory/audit",
+    "tab": null,
+    "button": "Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/inventory/auditSetup",
+    "tab": null,
+    "button": "Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/inventory/gateInOut",
+    "tab": null,
+    "button": "Create Get In Out"
+  },
+  {
+    "route": "https://mgm.ibos.io/inventory/gateInOut",
+    "tab": "GATE IN",
+    "button": "Create Get In Out"
+  },
+  {
+    "route": "https://mgm.ibos.io/inventory/gateInOut",
+    "tab": "GATE OUT",
+    "button": "Create Get In Out"
+  },
+  {
+    "route": "https://mgm.ibos.io/inventory/gateInOut",
+    "tab": "VISITOR",
+    "button": "Create Get In Out"
+  },
+  {
+    "route": "https://mgm.ibos.io/inventory/qcManagement",
+    "tab": null,
+    "button": "Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/inventory/stock-adjustment",
+    "tab": null,
+    "button": "Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/postcrm/complainManagement",
+    "tab": null,
+    "button": "Create Complain"
+  },
+  {
+    "route": "https://mgm.ibos.io/postcrm/serviceAgreement",
+    "tab": null,
+    "button": "CREATE SERVICE AGREEMENT"
+  },
+  {
+    "route": "https://mgm.ibos.io/postcrm/serviceAgreement",
+    "tab": "SERVICE AGREEMENT",
+    "button": "CREATE SERVICE AGREEMENT"
+  },
+  {
+    "route": "https://mgm.ibos.io/postcrm/serviceAgreement",
+    "tab": "SERVICE DUE",
+    "button": "CREATE SERVICE AGREEMENT"
+  },
+  {
+    "route": "https://mgm.ibos.io/postcrm/warrantyManagement",
+    "tab": null,
+    "button": "Create"
+  },
+  {
+    "route": "https://mgm.ibos.io/production/workCenter",
+    "tab": null,
+    "button": "New Work Center"
+  },
+  {
+    "route": "https://mgm.ibos.io/purchase/purchaseOrder",
+    "tab": null,
+    "button": "Create Foreign Order"
+  },
+  {
+    "route": "https://mgm.ibos.io/purchase/purchaseOrder",
+    "tab": "FOREIGN PO",
+    "button": "Create Foreign Order"
+  },
+  {
+    "route": "https://mgm.ibos.io/purchase/purchaseOrder",
+    "tab": "INDENTING PO",
+    "button": "Create Indenting Order"
+  },
+  {
+    "route": "https://mgm.ibos.io/purchase/purchaseOrder",
+    "tab": "LOCAL PO",
+    "button": "Create Local Order"
+  },
+  {
+    "route": "https://mgm.ibos.io/purchase/quotationEntry",
+    "tab": null,
+    "button": "Create Quotation Entry"
+  },
+  {
+    "route": "https://mgm.ibos.io/purchase/rfq",
+    "tab": null,
+    "button": "Create RFQ"
+  },
+  {
+    "route": "https://mgm.ibos.io/sales/deliverySchedule",
+    "tab": "APPROVED SO",
+    "button": "Create Schedule"
+  },
+  {
+    "route": "https://mgm.ibos.io/sales/fieldCollection",
+    "tab": null,
+    "button": "Create Collection"
+  },
+  {
+    "route": "https://mgm.ibos.io/sales/fieldCollection",
+    "tab": "FIELD COLLECTION",
+    "button": "Create Collection"
+  },
+  {
+    "route": "https://mgm.ibos.io/sales/goodsSales",
+    "tab": "APPROVED SO",
+    "button": "Create Reason"
+  },
+  {
+    "route": "https://mgm.ibos.io/sales/SalesCollection",
+    "tab": null,
+    "button": "Create Bill"
+  },
+  {
+    "route": "https://mgm.ibos.io/sales/SalesCollection",
+    "tab": "ADVANCE COLLECTION",
+    "button": "Create Bill"
+  },
+  {
+    "route": "https://mgm.ibos.io/sales/SalesCollection",
+    "tab": "COLLECTED INVOICE",
+    "button": "Create Bill"
+  },
+  {
+    "route": "https://mgm.ibos.io/sales/SalesCollection",
+    "tab": "DUE BILL",
+    "button": "Create Bill"
+  },
+  {
+    "route": "https://mgm.ibos.io/sales/SalesCollection",
+    "tab": "DUE INVOICE REPORT",
+    "button": "Create Bill"
+  },
+  {
+    "route": "https://mgm.ibos.io/sales/SalesCollection",
+    "tab": "DUE LIST",
+    "button": "Create Bill"
+  },
+  {
+    "route": "https://mgm.ibos.io/sales/salesQuotation",
+    "tab": null,
+    "button": "Create Quotation"
+  }
+]
